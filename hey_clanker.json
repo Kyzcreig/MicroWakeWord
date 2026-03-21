@@ -3,7 +3,7 @@
   "wake_word": "hey clanker",
   "author": "Forge",
   "website": "https://github.com/Kyzcreig/MicroWakeWord",
-  "model": "https://raw.githubusercontent.com/Kyzcreig/MicroWakeWord/master/hey_clanker.tflite",
+  "model": "hey_clanker.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
