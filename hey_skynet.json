@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey skynet",
+  "wake_word": "Hey Skynet",
   "author": "Forge",
   "website": "https://github.com/Kyzcreig/MicroWakeWord",
   "model": "hey_skynet.tflite",

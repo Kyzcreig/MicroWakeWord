@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey clanker",
+  "wake_word": "Hey Clanker",
   "author": "Forge",
   "website": "https://github.com/Kyzcreig/MicroWakeWord",
   "model": "hey_clanker.tflite",
