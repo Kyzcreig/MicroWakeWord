@@ -1,13 +1,13 @@
 {
   "type": "micro",
-  "wake_word": "Hey Skynet",
+  "wake_word": "Hey Sky Net",
   "author": "Forge",
   "website": "https://github.com/Kyzcreig/MicroWakeWord",
   "model": "hey_skynet.tflite",
   "trained_languages": [
     "en"
   ],
-  "version": 2,
+  "version": 3,
   "micro": {
     "probability_cutoff": 0.5,
     "feature_step_size": 10,
