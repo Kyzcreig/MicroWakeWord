@@ -7,12 +7,13 @@
   "trained_languages": [
     "en"
   ],
-  "version": 2,
+  "version": 3,
   "micro": {
     "probability_cutoff": 0.85,
     "feature_step_size": 10,
     "sliding_window_size": 5,
     "tensor_arena_size": 37000,
     "minimum_esphome_version": "2024.7.0"
-  }
+  },
+  "notes": "v8 recipe (v5 + 200 real Ace+Kitty, NO self-mining, NO phrase-confusable hardnegs). Parakeet-validated det@0.96=1.00 on 119 real clips. See Engineering/HA Voice/Wake Word Training - Canonical Recipe \u00a7Winning hey-skynet recipe."
 }
